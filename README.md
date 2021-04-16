@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bilgiyazan.com.tr%2Fegitimlerimiz%2Fyazilim-egitimleri%2Fsistem-programcisi-kursu%2Fc-plusplus-programlama-dili-kursu%2F&psig=AOvVaw1K8Wxf4EPMrDhV114weWrU&ust=1618673102803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCp7KyJg_ACFQAAAAAdAAAAABAa" width="300" height="300">
+  <img src=" https://telegra.ph/file/231b4c849413179c958d5.jpg" width="500" height="500">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
